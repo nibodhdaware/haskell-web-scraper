@@ -27,10 +27,9 @@ To run this web scraper, you need the following:
 
 2.  Perform a Cabal Build to install all the dependencies
 
-        ```bash
-        cabal build
-        ```
+    ```bash
+    cabal build
+    ```
 
-        or
-
-    Directly do `cabal run` to run the scraper.
+or
+Directly do `cabal run` to run the scraper.
